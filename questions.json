@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Question number 1?",
+        "choice1": "yes",
+        "choice2": "no",
+        "choice3": "maybe",
+        "choice4": "don't think so",
+        "answer": 1
+    },
+    {
+        "question": "Question number 2?",
+        "choice1": "no",
+        "choice2": "yes",
+        "choice3": "maybe",
+        "choice4": "don't think so",
+        "answer": 3
+    }
+]
